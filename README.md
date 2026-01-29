@@ -1,4 +1,5 @@
 # Career Anxiety Due to AI — Data Visualization Notebook
+![Project Thumbnail](thumbnail.png)
 
 ## 📌 Overview
 This notebook explores **career anxiety caused by the rise of Artificial Intelligence (AI)** through data visualization. It analyzes survey or dataset-driven insights to understand how individuals perceive AI’s impact on jobs, skills, and future career stability.
